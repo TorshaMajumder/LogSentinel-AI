@@ -1,4 +1,3 @@
-
 # 🛡️ LogSentinel AI: Zero-Day Infrastructure Guard
 
 **LogSentinel AI** is a high-scale security observability system designed to detect "Zero-Day" anomalies in cloud infrastructure logs. By utilizing **Self-Supervised Learning (SSL)** and **Vector Similarity Search**, LogSentinel identifies suspicious system behaviors that bypass traditional rule-based alerts.
@@ -59,6 +58,8 @@ CREATE COLLECTION logs_collection (
   <video src="YOUR_DRAGGED_LINK_HERE" width="100%" autoplay loop muted playsinline></video>
 
   <br/>
+  
+[Streamlit App](https://github.com/user-attachments/assets/ee4c077a-0b8d-449b-a05d-3fcc2d9cc7e6)
 
 </div>
 
