@@ -23,7 +23,7 @@
 4.  **Analysis:** If the similarity score falls below a specific threshold (the "Semantic Noise Floor"), **Groq** analyzes the delta between the known and unknown log to determine the threat type (e.g., Buffer Overflow, Injection, or Hardware Failure).
 
 
-**Data Schema**
+### Data Schema
 
 
 ```sql
