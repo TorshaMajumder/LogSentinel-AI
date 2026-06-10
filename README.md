@@ -38,7 +38,7 @@ CREATE COLLECTION logs_collection (
     vector FLOAT_VECTOR(384),           -- BERT-based SSL Embeddings
     timestamp VARCHAR(100),             -- Log Event Time
     log_level VARCHAR(20),              -- INFO, WARN, FATAL
-    message VARCHAR(2048)               -- Raw Log Content (Truncated)
+    message VARCHAR(3000)               -- Raw Log Content (Truncated)
 );
 ```
 
