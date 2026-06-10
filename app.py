@@ -14,7 +14,7 @@ def main(config):
 
     # Sidebar for Keys
     with st.sidebar:
-        zilliz_uri = st.text_input("Zilliz Endpoint")
+        zilliz_uri = st.text_input("Zilliz Endpoint", type="password")
         zilliz_token = st.text_input("Zilliz Token", type="password")
         groq_key = st.text_input("Groq API Key", type="password")
 
