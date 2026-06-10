@@ -13,7 +13,7 @@
 *   **Inference (Brain):** Llama-3.1-8b-instant via **Groq**
 *   **SSL Encoder:** BERT-based Sentence Transformers
 *   **Deployment:** Streamlit
-*   **Dataset:** [LogHub HDFS (Hadoop Distributed File System)](https://www.kaggle.com/datasets/ayenuryrr/loghub-hdfs-hadoop-distributed-file-system-data)
+*   **Dataset (Kaggle):** [LogHub HDFS (Hadoop Distributed File System)](https://www.kaggle.com/datasets/ayenuryrr/loghub-hdfs-hadoop-distributed-file-system-data)
 
 ### 🏗️ How it Works
 1.  **Ingestion:** Raw HDFS logs are parsed and truncated for semantic integrity.
